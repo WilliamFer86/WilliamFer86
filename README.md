@@ -1,6 +1,6 @@
 # Hola, soy William 👋
 
-### Desarrollador en formación | Colombia 🇨🇴
+### Desarrollador en formación | Bogotá-Colombia 🇨🇴
 
 Soy una persona curiosa con un propósito claro: usar la tecnología para resolver problemas humanos reales. Actualmente aprendiendo Python y desarrollo de apps, mientras construyo proyectos que combinan **salud, bienestar e inteligencia artificial**.
 
@@ -8,12 +8,12 @@ Soy una persona curiosa con un propósito claro: usar la tecnología para resolv
 
 ## 🚀 En qué estoy trabajando
 
-### 🔮 Intima *(en desarrollo)*
-App de salud sexual con IA que actúa como triage empático. Ayuda a las personas a identificar sus dificultades íntimas, les brinda orientación y las conecta con los profesionales adecuados (urólogos, psicólogos, fisioterapeutas y más). Integra biomarcadores de relojes inteligentes como contexto adicional.
+### 🔮 IntimA *(en desarrollo)*
+App de salud sexual con IA que actúa como un triage de manera empática. Busca ayudar  a las personas a identificar sus dificultades relacionadas con su salud sexual , les brinda orientación y las conecta con los profesionales adecuados (urólogos, psicólogos, fisioterapeutas y más). Integra biomarcadores de relojes inteligentes como contexto adicional.
 
 > *Porque hablar de salud sexual no debería ser difícil.*
 
-### 🐣 Ciguenapp *(en pausa)*
+### 🐣 CiguenApp *(en pausa)*
 App de apoyo para padres, madres y cuidadores. Directorio de profesionales y marketplace de servicios para bebés y primera infancia.
 
 ---

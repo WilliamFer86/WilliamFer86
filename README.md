@@ -23,7 +23,7 @@ App de apoyo para padres, madres y cuidadores. Directorio de profesionales y mar
 - **Python** — fundamentos y lógica de programación
 - **Git & GitHub** — control de versiones y colaboración
 - **Figma** — diseño de interfaces y prototipado
-- **IA aplicada** — Claude API, Hugging Face, LangChain *(próximamente)*
+- **IA aplicada** — Claude API, Hugging Face(próximamente)*
 
 ---
 
